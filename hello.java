@@ -3,7 +3,7 @@ void main(){
 	printf("lA:add 1948");	
 	printf("l 1946");
 	printf('--lA');
-
+	printf('--l');
 
 
 
