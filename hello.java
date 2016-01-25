@@ -4,17 +4,6 @@ void main(){
 	printf("l 1946");
 
 
-l: add
-
-lA: wohao
-lA: add
-
-lA;
-l;
-
-
-
-
 
 
 
